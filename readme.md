@@ -1,4 +1,3 @@
-Hello world ☆
 
 
 ## 🌐 Socials:
