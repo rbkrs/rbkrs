@@ -1,3 +1,9 @@
+Hello there 👋
+
+- MSc Computer Science from Rijks Universiteit Leiden
+- BSc Computer Science from Vrije Universiteit Amsterdam
+- Interested in software engineering, machine learning, artificial intelligence, data science, and everything in between.
+
 [*](https://robkras.com)
 
 ## 🌐 Socials:
