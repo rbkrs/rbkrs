@@ -5,7 +5,7 @@
 - BSc Computer Science from Vrije Universiteit Amsterdam
 - Interested in software engineering, machine learning, artificial intelligence, data science, and everything in between.
 
-### 🌐 Reach me:
+### 🌐 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/robin-kras-8b4bb31bb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robkraseu@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/youknowyourself/)
