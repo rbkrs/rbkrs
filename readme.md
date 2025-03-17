@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- MSc Computer Science from Rijks Universiteit Leiden, BSc Computer Science from Vrije Universiteit Amsterdam
+- MSc Computer Science from Rijksuniversiteit Leiden, BSc Computer Science from Vrije Universiteit Amsterdam
 - Interested in machine learning and data science.
 - [robkras.com](https://robkras.com)
 
