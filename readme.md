@@ -2,7 +2,7 @@
 
 - MSc Computer Science from Rijksuniversiteit Leiden, BSc Computer Science from Vrije Universiteit Amsterdam
 - Interested in machine learning and data science.
-- [robkras.com](https://robkras.com)
+- My domain is a better highlight of what my profile offers ➡ [robkras.com](https://robkras.com)
 
 ### 🌐 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-kras-8b4bb31bb)
