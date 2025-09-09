@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm **Rob Kras**, a Computer Science graduate passionate about **Data Science** and **Artificial Intelligence**. I specialize in machine learning competitions and research at the intersection of AI and cognitive science.
+I'm **Rob Kras**, a Computer Scientist.
 
 🎓 **Education:**
 - MSc Computer Science (Data Science & AI) - *Universiteit Leiden* (2024-2025)
