@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Rob Kras
 
-### Computer Scientist
+### Computer Scientist and ML Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rbkrs&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rbkrs)
 
@@ -43,13 +43,5 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/robkraseu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robkraseu@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/robk555/)
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning data into insights, algorithms into solutions"*
 
 </div>
