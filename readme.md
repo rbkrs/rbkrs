@@ -2,36 +2,11 @@
 
 # 👋 Hello, I'm Rob Kras
 
-### Computer Scientist and ML Enthusiast
+## Computer Scientist and ML Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rbkrs&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rbkrs)
 
 </div>
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-
-**MSc Computer Science**  
-*Data Science & AI Track*  
-📍 Universiteit Leiden  
-📅 2024-2025
-
-</td>
-<td width="50%">
-
-**BSc Computer Science**  
-*Data Science Minor*  
-📍 Vrije Universiteit Amsterdam  
-📅 2020-2023
-
-</td>
-</tr>
-</table>
 
 ---
 
