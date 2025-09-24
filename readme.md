@@ -1,18 +1,10 @@
-<div align="center">
+Hello, I am Rob Kras.
 
-# 👋 Hello, I'm Rob Kras
-
-## Computer Scientist and ML Enthusiast
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rbkrs&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rbkrs)
-
-</div>
-
----
-
-## 🌐 Connect With Me
+Offering clever data science, AI, and Machine Learning solutions.
 
 <div align="center">
+
+Come find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-kras/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/robkraseu)
