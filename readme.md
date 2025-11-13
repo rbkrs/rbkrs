@@ -1,6 +1,6 @@
-Hello, I am Rob Kras.
+Hello, welcome to Rob Kras' github.
 
-Offering clever data science, AI, and Machine Learning solutions.
+Offering AI/DS/ML solutions.
 
 <div align="center">
 
