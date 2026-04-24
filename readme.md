@@ -1,6 +1,4 @@
-Hello, welcome to Rob Kras' github.
-
-Offering AI/DS/ML solutions.
+Hello world
 
 <div align="center">
 
